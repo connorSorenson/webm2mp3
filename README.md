@@ -8,7 +8,7 @@ The speedup.ps1 is to manually change the playback speed, say you want to listen
 
 How To:
 
-1. Create a folder on your desktop named mp3. Go to https://ffmpeg.org/ and download a windows build release https://github.com/BtbN/FFmpeg-Builds/releases. After downloading, unzip the archive and move the ffmpeg.exe file to your desktop.
+1. Create a folder on your desktop named mp3. Go to https://ffmpeg.org/ and download a windows build release https://github.com/BtbN/FFmpeg-Builds/releases. After downloading, unzip the archive and move the ffmpeg.exe file to your desktop. Download the two ps1 files from this repo and place in the mp3 folder.
 
 2. Move all desired webm files you want to combine into the mp3 folder.
    
