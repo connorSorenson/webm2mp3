@@ -14,4 +14,8 @@ How To:
    
 3. Right click the webm-to-mp3.ps1 and select run with powershell. It will output mp3s for each webm, along with a combined mp3 named output.mp3. It will also generate a list.txt log file.
 
+4. Cleanup: If you want to run again, you need to remove the mp3's and webm you have previously used from the mp3 folder or else it'll use reuse them.
+
+5. For speedup just remove everything but the ps1 scripts and the output.mp3 and run the same way. You can change the "atempo" attribute if you prefer a different speed than 1.6x
+
 Super simple!
