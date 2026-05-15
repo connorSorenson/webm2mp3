@@ -2,7 +2,7 @@
 Simple tool to convert any webm videos into mp3s. I have lots of educational videos I like to combine into a few hours long mp3 and listen to in the car. Hope you enjoy!
 
 
-The webm-to-mp3.ps1 is a powershell script which will read all files in its current directory and look for any ending in .webm, it will use the ffmpeg tool to then convert them into mp3s. If you name the files in alphabetical order you can determine the order they are combined into the mp3. 
+The webm-to-mp3.ps1 is a powershell script which will read all files in its current directory and look for any ending in .webm, it will use the ffmpeg tool to then convert them into mp3s. If you name the files in alphabetical / numeric order you can determine the order they are combined into the mp3. 
 
 The speedup.ps1 is to manually change the playback speed, say you want to listen to the mp3 on Apple Music which won't let you set a higher speed. 
 
